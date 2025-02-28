@@ -1,0 +1,269 @@
+[
+  {
+    "title":"Central Park",
+    "desc":"A sprawling green oasis in the heart of Manhattan, Central Park offers scenic walking trails, serene lakes, and iconic landmarks like Bethesda Terrace and Bow Bridge. Whether you're picnicking, boating, or visiting the Central Park Zoo, it's a perfect escape from the city's hustle. The park is a must-visit year-round, with ice skating in winter and vibrant foliage in the fall.",
+    "address":"59th Street to 110th Street, between Fifth Avenue and Central Park West",
+    "hours": "Daily from 6:00 AM to 1:00 AM.",
+    "images":[
+      "centralPark.jpg"
+    ],
+    "website":"https://www.centralparknyc.org",
+    "features":[
+      "outdoor spaces",
+      "iconic views",
+      "family-friendly"
+    ]
+  },
+  {
+    "title":"The Metropolitan Museum of Art",
+    "desc":"As one of the world’s largest and most prestigious museums, The Met showcases over 5,000 years of art, from ancient artifacts to modern masterpieces. Located along Fifth Avenue, its vast collection includes works by Van Gogh, Egyptian mummies, and medieval armor. Whether you're an art lover or a casual visitor, The Met offers an unforgettable journey through history and creativity.",
+    "address":"1000 5th Ave, New York, NY 10028, USA",
+    "hours": " Open Sunday–Thursday from 10:00 AM to 5:00 PM; Friday and Saturday from 10:00 AM to 9:00 PM.",
+    "images":[
+      "metropolitanMuseumOfArt.avif"
+    ],
+    "website":"https://www.metmuseum.org",
+    "features":[
+      "art & museums"
+    ]
+  },
+  {
+    "title":"Statue of Liberty",
+    "desc":"A symbol of freedom and democracy, the Statue of Liberty stands proudly on Liberty Island, welcoming visitors with breathtaking views of New York Harbor. You can explore the museum, climb to the pedestal or crown, and learn about its rich history. A ferry ride to the statue also includes a stop at Ellis Island, where millions of immigrants first arrived in America.",
+    "address":"Liberty Island, New York, NY 10004, USA",
+    "hours": "Ferry service typically operates from 9:00 AM to 3:30 PM; the island closes at 5:00 PM. Hours may vary by season.",
+    "images":[
+      "statueOfLiberty.jpeg"
+    ],
+    "website":"https://www.nps.gov/stli/index.htm",
+    "features":[
+      "outdoor spaces",
+      "iconic views",
+      "historic landmarks"
+    ]
+  },
+  {
+    "title":"Empire State Building",
+    "desc":"One of the most iconic skyscrapers in the world, the Empire State Building offers stunning 360-degree views of New York City from its observation decks. Standing at 1,454 feet tall, it has been featured in countless movies and remains a symbol of architectural brilliance. Whether visiting by day or night, the skyline views are truly unforgettable.",
+    "address":"20 W 34th St, New York, NY 10118, USA",
+    "hours": "Daily from 9:00 AM to 12:00 AM (midnight); last elevator up at 11:15 PM",
+    "images":[
+      "empireStateBuilding.jpg"
+    ],
+    "website":"https://www.esbnyc.com",
+    "features":[
+      "iconic views",
+      "historic landmarks"
+    ]
+  },
+  {
+    "title":"Brooklyn Bridge Park",
+    "desc":"Stretching along the East River, Brooklyn Bridge Park offers stunning waterfront views, lush green spaces, and recreation areas perfect for biking, picnicking, and kayaking. With breathtaking views of the Manhattan skyline and the Brooklyn Bridge, it's a favorite spot for both locals and tourists. The park also hosts events, outdoor movies, and food vendors, making it a lively destination year-round.",
+    "address":"334 Furman St, Brooklyn, NY 11201, USA",
+    "hours": "Daily from 6:00 AM to 1:00 AM.",
+    "images":[
+      "brooklynBridgePark.jpg"
+    ],
+    "website":"https://www.brooklynbridgepark.org",
+    "features":[
+      "outdoor spaces",
+      "iconic views",
+      "family-friendly"
+    ]
+  },
+  {
+    "title":"The High Line",
+    "desc":"A transformed elevated railway, The High Line is a unique urban park featuring landscaped gardens, art installations, and panoramic city views. Running through Chelsea and the Meatpacking District, it offers a peaceful escape above the busy streets. Walk along its path to discover lush greenery, outdoor seating, and a mix of modern architecture and historic buildings.",
+    "address":"New York, NY 10011, USA",
+    "hours": "Daily from 7:00 AM to 7:00 PM; hours may extend during warmer months.",
+    "images":[
+      "highLine.jpg"
+    ],
+    "website":"https://www.thehighline.org",
+    "features":[
+      "outdoor spaces",
+      "iconic views"
+    ]
+  },
+  {
+    "title":"Grand Central Terminal",
+    "desc":"More than just a transportation hub, Grand Central Terminal is an architectural masterpiece with its stunning celestial ceiling, iconic clock, and bustling atmosphere. Home to hidden gems like the Whispering Gallery and upscale dining at the Grand Central Market, it’s a destination in itself. Whether you're catching a train or simply exploring, it captures the magic of old New York.",
+    "address":"89 E 42nd St, New York, NY 10017, USA",
+    "hours": "Building open daily from 5:30 AM to 2:00 AM; individual shop and restaurant hours vary.",
+    "images":[
+      "grandCentralTerminal.jpg"
+    ],
+    "website":"https://www.grandcentralterminal.com",
+    "features":[
+      "historic landmarks",
+      "foodie spots"
+    ]
+  },
+  {
+    "title":"American Museum of Natural History",
+    "desc":"A paradise for science and history lovers, this world-renowned museum houses everything from towering dinosaur skeletons to dazzling gems and meteorites. Located on the Upper West Side, it offers immersive exhibits on space, human evolution, and ocean life. The famous Blue Whale model and the Rose Center for Earth and Space are must-sees.",
+    "address":"200 Central Park West, New York, NY 10024, USA",
+    "hours": "Daily from 10:00 AM to 5:30 PM.",
+    "images":[
+      "MuseumofNaturalHistory.webp"
+    ],
+    "website":"https://www.amnh.org",
+    "features":[
+      "art & museums",
+      "family-friendly"
+    ]
+  },
+  {
+    "title":"Rockefeller Center",
+    "desc":"A vibrant complex in Midtown Manhattan, Rockefeller Center is home to the famous Top of the Rock observation deck, NBC Studios, and the annual Christmas tree lighting. Visitors can tour the art-deco landmarks, shop, dine, or ice skate in the winter. It's a hub of culture, entertainment, and history in the heart of New York.",
+    "address":"45 Rockefeller Plaza, New York, NY 10111, USA",
+    "hours": "Complex open 24/7; Top of the Rock Observation Deck operates daily from 9:00 AM to 11:00 PM; last elevator up at 10:10 PM.",
+    "images":[
+      "rockefellerCenter.jpg"
+    ],
+    "website":"https://www.rockefellercenter.com",
+    "features":[
+      "iconic views",
+      "historic landmarks"
+    ]
+  },
+  {
+    "title":"Bryant Park",
+    "desc":"Nestled among skyscrapers, Bryant Park is a beloved green space featuring seasonal events, an outdoor reading room, and a winter ice skating rink. In summer, it's a lively spot for free movie nights, yoga classes, and outdoor dining. With its Parisian-style chairs and scenic fountains, it's a perfect retreat from the city's rush.",
+    "address":"42nd St & 6th Ave, New York, NY 10018",
+    "hours": "Open daily from 7:00 AM to 10:00 PM.",
+    "images":[
+      "bryantPark.jpg"
+    ],
+    "website":"https://www.bryantpark.org",
+    "features":[
+      "outdoor spaces",
+      "iconic views",
+      "foodie spots"
+    ]
+  },
+  {
+    "title":"Brooklyn Botanic Garden",
+    "desc":"A stunning 52-acre garden oasis, Brooklyn Botanic Garden is famous for its cherry blossoms, rose garden, and serene Japanese Hill-and-Pond Garden. Whether you're admiring the seasonal blooms or walking through the lush conservatories, it's a tranquil escape from city life. A visit during spring's Cherry Blossom Festival is an unforgettable experience.",
+    "address":"990 Washington Ave, Brooklyn, NY 11225, USA",
+    "hours": "Tuesday–Sunday from 10:00 AM to 6:00 PM; closed on Mondays, except for special holidays.",
+    "images":[
+      "brooklynBotanicGarden.jpg"
+    ],
+    "website":"https://www.bbg.org",
+    "features":[
+      "outdoor spaces",
+      "family-friendly"
+    ]
+  },
+  {
+    "title":"New York Hall of Science",
+    "desc":" A hands-on science museum in Queens, the New York Hall of Science is perfect for families, featuring interactive exhibits on physics, space, and biology. Originally built for the 1964 World’s Fair, it continues to inspire curiosity and innovation. Highlights include the outdoor Science Playground and the Design Lab, where visitors can experiment and create.",
+    "address":"47-01 111th St, Queens, NY 11368, USA",
+    "hours": "Wednesday–Sunday from 10:00 AM to 5:00 PM; closed on Monday and Tuesday.",
+    "images":[
+      "newYorkHallofScience.jpg"
+    ],
+    "website":"https://www.nysci.org",
+    "features":[
+      "family-friendly",
+      "interactive exhibits"
+    ]
+  },
+  {
+    "title":"MoMA PS1",
+    "desc":"A cutting-edge contemporary art space in Queens, MoMA PS1 showcases experimental and thought-provoking works from emerging artists. With a focus on avant-garde exhibitions, immersive installations, and live performances, it’s a haven for art enthusiasts. The museum’s outdoor courtyard also hosts music events and the annual Warm Up summer series.",
+    "address":"22-25 Jackson Ave, Queens, NY 11101",
+    "hours": "Open Thursday–Monday from 12:00 PM to 6:00 PM. Closed on Tuesday and Wednesday.",
+    "images":[
+      "momaPs1.webp"
+    ],
+    "website":"https://www.moma.org/ps1",
+    "features":[
+      "art & museums"
+    ]
+  },
+  {
+    "title":"Coney Island",
+    "desc":"A legendary seaside destination, Coney Island is famous for its historic amusement park, boardwalk, and iconic Nathan’s Hot Dogs. Visitors can ride the thrilling Cyclone roller coaster, relax on the beach, or enjoy a classic summer day at Luna Park. The annual Mermaid Parade and Friday night fireworks make it a lively summer hotspot.",
+    "address":"1208 Surf Ave, Brooklyn, NY 11224",
+    "hours": "The beach and boardwalk are open daily year-round. Amusement park hours vary by season and weather; typically open from April through October.",
+    "images":[
+      "coneyIsland.png"
+    ],
+    "website":"https://www.coneyisland.com",
+    "features":[
+      "outdoor spaces",
+      "family-friendly",
+      "foodie spots"
+    ]
+  },
+  {
+    "title":"Smorgasburg Market",
+    "desc":"The ultimate outdoor food market, Smorgasburg in Brooklyn features dozens of food vendors serving everything from gourmet burgers to inventive desserts. With a beautiful waterfront setting, it’s a foodie paradise where you can try unique, Instagram-worthy dishes. Open seasonally, it’s a must-visit for those looking to explore New York’s vibrant food scene.",
+    "address":"90 Kent Ave, Brooklyn, NY 11211",
+    "hours": "Operates seasonally on weekends from 11:00 AM to 6:00 PM. Locations and hours may vary.",
+    "images":[
+      "smorgasburgMarket.jpg"
+    ],
+    "website":"https://www.smorgasburg.com",
+    "features":[
+      "foodie spots",
+      "outdoor spaces"
+    ]
+  },
+  {
+    "title":"Chelsea Market",
+    "desc":"A bustling indoor food hall and shopping destination, Chelsea Market is a paradise for food lovers, featuring everything from fresh seafood to artisanal baked goods. Located in the Meatpacking District, it’s also home to boutique shops and creative workspaces. Whether grabbing a bite or browsing unique gifts, it’s a must-visit in NYC.",
+    "address":"75 Ninth Avenue, New York, NY 10011",
+    "hours": "Open daily from 7:00 AM to 2:00 AM. Individual vendor hours may vary.",
+    "images":[
+      "chelseaMarket.webp"
+    ],
+    "website":"https://www.chelseamarket.com",
+    "features":[
+      "foodie spots"
+    ]
+  },
+  {
+    "title":"Museum of Ice Cream",
+    "desc":"A playful, immersive experience, the Museum of Ice Cream offers colorful installations, interactive exhibits, and, of course, plenty of sweet treats. With giant sprinkle pools, whimsical rooms, and fun photo ops, it’s a dream for ice cream lovers and Instagram enthusiasts alike. More than just a museum, it’s a multisensory adventure.",
+    "address":"558 Broadway, New York, NY 10012",
+    "hours": "Open Wednesday–Monday from 10:00 AM to 8:30 PM. Closed on Tuesdays.",
+    "images":[
+      "museumofIceCream.png"
+    ],
+    "website":"https://www.museumoficecream.com",
+    "features":[
+      "family-friendly",
+      "foodie spots"
+    ]
+  },
+  {
+    "title":"Bronx Zoo",
+    "desc":"One of the largest metropolitan zoos in the world, the Bronx Zoo is home to over 6,000 animals, including tigers, gorillas, and snow leopards. Visitors can explore diverse habitats like the Congo Gorilla Forest and the Butterfly Garden. A must-visit for animal lovers, the zoo offers engaging experiences, from feeding penguins to watching sea lion shows.",
+    "address":"2300 Southern Blvd, Bronx, NY 10460",
+    "hours": "Open daily from 10:00 AM to 5:00 PM; extended to 5:30 PM on weekends and holidays.",
+    "images":[
+      "bronxZoo.jpg"
+    ],
+    "website":"https://www.bronxzoo.com",
+    "features":[
+      "outdoor spaces",
+      "family-friendly"
+    ]
+  },
+  {
+    "title":"Brooklyn Museum",
+    "desc":"A cultural gem, the Brooklyn Museum houses an extensive collection ranging from ancient Egyptian artifacts to contemporary art. Located near Prospect Park, it offers rotating exhibitions, artist talks, and a focus on social and political themes. First Saturdays bring free events, live music, and a vibrant community atmosphere.",
+    "address":"200 Eastern Pkwy, Brooklyn, NY 11238",
+    "hours": "Open Wednesday, Thursday, Saturday, and Sunday from 11:00 AM to 6:00 PM; Friday from 11:00 AM to 8:00 PM. Closed on Monday and Tuesday.",
+    "images":[
+      "brooklynMuseum.jpg"
+    ],
+    "website":"https://www.brooklynmuseum.org",
+    "features":[
+      "art & museums"
+    ]
+  }
+]
