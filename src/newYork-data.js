@@ -1,7 +1,7 @@
 import data from './newYork-data.json';
 
 data.forEach((obj, i) => {
-  obj.i = i
+  obj.id = i
 });
 
 

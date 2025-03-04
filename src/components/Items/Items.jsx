@@ -5,8 +5,8 @@ function Items(props) {
   const { name, image, address, hours, id } = props;
 
   return (
-    <div className="items">
-      <Link className='itemTitle' to={`/details/${id}`}>
+    <div className="Items">
+      <Link className='Item-Title' to={`/details/${id}`}>
         <h1>{name}</h1>
       </Link>
       <Link to={`/details/${id}`}>
@@ -16,7 +16,7 @@ function Items(props) {
         alt="" 
         />
       </Link>
-      <div className='item-info'>
+      <div className='Item-Info'>
         <div>{address}</div>
         <div className='hours'>{hours}</div>
       </div>

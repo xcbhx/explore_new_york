@@ -4,6 +4,8 @@ import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import LocationList from './components/LocationList/LocationList';
+import Details from './components/Details/Details';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
@@ -12,9 +14,8 @@ root.render(
     <Router>
       <Routes>
         <Route path='/' element={<App />} >
-          <Route></Route>
-          <Route></Route>
-          <Route></Route>
+          <Route index element={<LocationList />}/>
+          <Route path='/details/:id' element={<Details/>} />
         </Route>
       </Routes>
     </Router>
