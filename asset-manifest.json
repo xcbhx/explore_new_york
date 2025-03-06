@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/explore_new_york/static/css/main.e0d4dae7.css",
-    "main.js": "/explore_new_york/static/js/main.cd845420.js",
+    "main.js": "/explore_new_york/static/js/main.1b8d992b.js",
     "static/js/453.f18697d1.chunk.js": "/explore_new_york/static/js/453.f18697d1.chunk.js",
     "index.html": "/explore_new_york/index.html",
     "main.e0d4dae7.css.map": "/explore_new_york/static/css/main.e0d4dae7.css.map",
-    "main.cd845420.js.map": "/explore_new_york/static/js/main.cd845420.js.map",
+    "main.1b8d992b.js.map": "/explore_new_york/static/js/main.1b8d992b.js.map",
     "453.f18697d1.chunk.js.map": "/explore_new_york/static/js/453.f18697d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0d4dae7.css",
-    "static/js/main.cd845420.js"
+    "static/js/main.1b8d992b.js"
   ]
 }
