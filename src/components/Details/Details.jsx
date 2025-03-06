@@ -16,6 +16,7 @@ function Details() {
 
       <div className='Details-info'>
         <h1 className='title'>{ title }</h1>
+        <hr />
         <p className='desc'>{ desc }</p>
         <p className='hours'>{ hours }</p>
       </div>
