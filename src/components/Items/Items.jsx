@@ -2,7 +2,7 @@ import './Items.css';
 import { Link } from "react-router-dom";
 
 function Items(props) {
-  const { name, image, address, hours, id } = props;
+  const { name, image, id } = props;
 
   return (
     <div className="Items">
@@ -14,12 +14,9 @@ function Items(props) {
         width="300"
         height="300"
         alt="" 
+        className='Item-images'
         />
       </Link>
-      <div className='Item-Info'>
-        <div>{address}</div>
-        <div className='hours'>{hours}</div>
-      </div>
     </div>
   )
 };

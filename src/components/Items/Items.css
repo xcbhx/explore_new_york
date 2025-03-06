@@ -1,44 +1,32 @@
 .Items {
   width: 100%;
-  text-align: center;
-  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
-/* .Items img {
-  width: 100%;
-  height: auto;
-} */
-
-.hours {
-  font-style: italic;
+.Items a {
+  text-decoration: none;
+  color: #1a0303;
+  margin: 2px;
 }
 
 .Items .Items-Title{
   text-decoration: none;
-  color: #000;
+  color: #1a0303;
+}
+
+.Item-images {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  flex-shrink: 1;
 }
 
 .Items h1 {
-  display: block;
-  position: absolute;
-  left: 0;
-  top: 0;
   margin: 0;
   font-weight: lighter;
-  background-color: rgba(255, 255, 255, 0.75);
-  padding: 1rem;
-  text-align: left;
+  padding: 5px;
 }
 
-.Items .Items-Info {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  text-align: right;
-}
 
-.Items .Items-Info div {
-  display: inline-block;
-  padding: 0.25em 0.5em;
-  background-color: rgba(255, 255, 255, 0.9);
-}
