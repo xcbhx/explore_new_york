@@ -1,0 +1,24 @@
+.Footer {
+  width: 100%;
+  background-color: #3e5176;
+  padding: 10px 0;
+  text-align: center;
+  color: white;
+}
+
+.Footer .footerLinks {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 0;
+}
+
+.Footer .footerLinks li {
+  display: inline;
+}
+
+.Footer .footerLinks a {
+  text-decoration: none;
+  color: white;
+}

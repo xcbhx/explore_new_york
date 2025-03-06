@@ -6,6 +6,8 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import LocationList from './components/LocationList/LocationList';
 import Details from './components/Details/Details';
+import About from './components/About/About';
+import Privacy from './components/Privacy/Privacy';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
@@ -16,6 +18,8 @@ root.render(
         <Route path='/' element={<App />} >
           <Route index element={<LocationList />}/>
           <Route path='/details/:id' element={<Details/>} />
+          <Route path='about' element={<About />} />
+          <Route path='privacy' element={<Privacy />} />
         </Route>
       </Routes>
     </Router>
