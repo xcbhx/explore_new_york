@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/explore_new_york/static/css/main.4de169fe.css",
+    "main.js": "/explore_new_york/static/js/main.1b8d992b.js",
+    "static/js/453.f18697d1.chunk.js": "/explore_new_york/static/js/453.f18697d1.chunk.js",
+    "index.html": "/explore_new_york/index.html",
+    "main.4de169fe.css.map": "/explore_new_york/static/css/main.4de169fe.css.map",
+    "main.1b8d992b.js.map": "/explore_new_york/static/js/main.1b8d992b.js.map",
+    "453.f18697d1.chunk.js.map": "/explore_new_york/static/js/453.f18697d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de169fe.css",
+    "static/js/main.1b8d992b.js"
+  ]
+}
