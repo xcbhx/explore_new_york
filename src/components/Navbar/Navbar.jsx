@@ -27,23 +27,21 @@ function Navbar({ onSearchChange }) {
   };
 
   return (
-    <div>
-      <header>
-        <h1 className='Navbar-Title'>Explore New York</h1>
-
-        <div className='Navbar'>
+    <div className='Navbar'>
+      <div className='Navbar-content'>
+        <img className='Navbar-logo' src='/images/Logo.webp' alt='Explore New York Logo' />
+        <div className='Nav-links'>
           <NavLink
             className={({ isActive }) =>
               isActive ? 'nav-link-active' : 'nav-link'
             }
             to='/'
-            onClick={handleHomeClick} // Clear search on Home click
+            onClick={handleHomeClick}
           >
             Home
           </NavLink>
-
           <a
-            className='Nav-Link'
+            className='nav-link'
             href='/'
             onClick={(e) => {
               e.preventDefault();
@@ -52,21 +50,20 @@ function Navbar({ onSearchChange }) {
           >
             Where Next
           </a>
-
-          <form onSubmit={handleSearchSubmit}>
-            <input
-              type='text'
-              placeholder='Search...'
-              value={searchQuery}
-              onChange={handleSearchInputChange}
-              className='Search-Input'
-            />
-            <button type='submit'>Submit</button>
-          </form>
         </div>
-      </header>
+        <form className='Search-form' onSubmit={handleSearchSubmit}>
+          <input
+            type='text'
+            placeholder='Search...'
+            value={searchQuery}
+            onChange={handleSearchInputChange}
+            className='Search-input'
+          />
+          <button type='submit'>Submit</button>
+        </form>
+      </div>
     </div>
-  )
-};
+  );
+}
 
 export default Navbar;
